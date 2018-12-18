@@ -7,4 +7,4 @@ Usage:
 using jar file:
   java -jar SkrillAccounting.jar 'path to csv file'
 OR using main class (SkrillAccounting)
-java -cp SkrillAccounting SkrillAccounting 'path to csv file'
+  java -cp SkrillAccounting SkrillAccounting 'path to csv file'
